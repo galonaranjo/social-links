@@ -18,7 +18,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [GitHub](https://github.com/galonaranjo/social-links)
-- Live Site URL: [Vercel](https://social-links.vercel.app/)
+- Live Site URL: [Vercel](https://findgalo.vercel.app/)
 
 ### Built with
 
